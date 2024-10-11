@@ -1,4 +1,4 @@
-# Power-BI-Dashboardsecho "# Power-BI-Dashboards" >> README.md
+# Power-BI-Dashboards" >> README.md
   
 
 ### Dashboard Link :  
@@ -32,9 +32,7 @@ Following DAX expression was written for the same,
 - Step 8 :Make sclicer of that Matrix. A donut chart of fat content, clustered chart of (Fat by outlet and Item type)  were also added to the report design area .
 - Step 9 : Treemap for outlet size , Funnel for outlet location ,Area chart for outlet establishment and matrix  were used.
 - Step 10 :The report was then published to Power BI Service.
- 
- 
-![Publish_Message]( )
+
 
 # Snapshot of Dashboard (Power BI Service)
 

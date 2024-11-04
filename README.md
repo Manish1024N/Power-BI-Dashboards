@@ -2,11 +2,6 @@
   
 
 ### Dashboard Link :  
-
-## Problem Statement
-
- Blinkit, a popular quick commerce platform, faces growing concerns over the lack of transparency and reliability in its product review system. Users have reported inconsistencies between product reviews and actual product quality, suggesting the presence of "fake" or misleading reviews. These inflated reviews may give customers false expectations, leading to dissatisfaction and diminished trust in the platform. Additionally, the absence of proper moderation for product feedback makes it easier for vendors to manipulate ratings, further compromising the credibility of the system. As customer trust is vital to the success of online platforms, the prevalence of unreliable reviews could lead to a decline in user retention and brand loyalty. Blinkit must address these issues by enhancing its review moderation policies, implementing verification mechanisms, and ensuring that customer feedback remains authentic and trustworthy to maintain its competitive edge in the market.
-
 ### Steps followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is a xlsx file.
